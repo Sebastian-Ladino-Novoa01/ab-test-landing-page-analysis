@@ -1,5 +1,3 @@
-# ab-test-landing-page-analysis
-
 # A/B Test — Landing Page Experiment (Python)
 
 Statistical analysis of an A/B test comparing two landing page versions, using hypothesis testing to decide which version to ship.
